@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sbiswas492003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbiswas492003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shuvo-biswas-8946b730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shuvo-biswas-8946b730a/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/neonrogue.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neonrogue.x/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shuvo-biswas-8946b730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shuvo-biswas-8946b730a/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/neonrogue.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neonrogue.x/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/FYJY7HsbvK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FYJY7HsbvK" height="30" width="40" /></a>
 </p>
 
