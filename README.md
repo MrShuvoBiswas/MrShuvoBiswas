@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PRIMEXIA ESPORTS](https://primexiaesports.com/)
 
-- 📫 How to reach me **shuvo@primexiaesports.com**
+- 📫 How to reach me **shuvo@xiaterminal.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
