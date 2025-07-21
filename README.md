@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshuvobiswas&label=Profile%20views&color=0e75b6&style=flat" alt="mrshuvobiswas" /> </p>
 
 - 🔭 I’m currently working on [PRIMEXIA ESPORTS](https://primexiaesports.com/)
+                      -------- XIA TERMINAL(https://xiaterminal.in/)
 
 - 📫 How to reach me **shuvo@xiaterminal.in**
 
